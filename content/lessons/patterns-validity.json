@@ -1,0 +1,51 @@
+{
+    "id":  "patterns-validity",
+    "chapterId":  2,
+    "lessonNumber":  2,
+    "title":  "Validity",
+    "summary":  "Placeholder lesson. Content and training will be added later.",
+    "draft":  {
+                  "tabs":  [
+                               {
+                                   "id":  "reading-placeholder",
+                                   "title":  "Reading Placeholder",
+                                   "containers":  [
+                                                      {
+                                                          "id":  "reading-placeholder-content",
+                                                          "title":  "Reading Placeholder",
+                                                          "blocks":  [
+                                                                         {
+                                                                             "id":  "d06b07737c8d414880f747f4ee757e06",
+                                                                             "type":  "richText",
+                                                                             "html":  "\u003cp\u003ePlaceholder reading text for Chapter 2, Lesson 2. Replace this section with the instructional content for validity.\u003c/p\u003e"
+                                                                         }
+                                                                     ]
+                                                      }
+                                                  ]
+                               }
+                           ]
+              },
+    "published":  {
+                      "tabs":  [
+                                   {
+                                       "id":  "reading-placeholder",
+                                       "title":  "Reading Placeholder",
+                                       "containers":  [
+                                                          {
+                                                              "id":  "reading-placeholder-content",
+                                                              "title":  "Reading Placeholder",
+                                                              "blocks":  [
+                                                                             {
+                                                                                 "id":  "d06b07737c8d414880f747f4ee757e06",
+                                                                                 "type":  "richText",
+                                                                                 "html":  "\u003cp\u003ePlaceholder reading text for Chapter 2, Lesson 2. Replace this section with the instructional content for validity.\u003c/p\u003e"
+                                                                             }
+                                                                         ]
+                                                          }
+                                                      ]
+                                   }
+                               ]
+                  },
+    "updatedAt":  "2026-07-10T02:41:07.6197973Z",
+    "publishedAt":  "2026-07-10T02:41:07.6197973Z"
+}

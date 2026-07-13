@@ -1,0 +1,51 @@
+{
+    "id":  "patterns-lesson-1",
+    "chapterId":  2,
+    "lessonNumber":  1,
+    "title":  "Patterns",
+    "summary":  "Placeholder lesson. Content and training will be added later.",
+    "draft":  {
+                  "tabs":  [
+                               {
+                                   "id":  "reading-placeholder",
+                                   "title":  "Reading Placeholder",
+                                   "containers":  [
+                                                      {
+                                                          "id":  "reading-placeholder-content",
+                                                          "title":  "Reading Placeholder",
+                                                          "blocks":  [
+                                                                         {
+                                                                             "id":  "c801813de898471eb8113017dc11c245",
+                                                                             "type":  "richText",
+                                                                             "html":  "\u003cp\u003ePlaceholder reading text for Chapter 2, Lesson 1. Replace this section with the instructional content for patterns of reasoning.\u003c/p\u003e"
+                                                                         }
+                                                                     ]
+                                                      }
+                                                  ]
+                               }
+                           ]
+              },
+    "published":  {
+                      "tabs":  [
+                                   {
+                                       "id":  "reading-placeholder",
+                                       "title":  "Reading Placeholder",
+                                       "containers":  [
+                                                          {
+                                                              "id":  "reading-placeholder-content",
+                                                              "title":  "Reading Placeholder",
+                                                              "blocks":  [
+                                                                             {
+                                                                                 "id":  "c801813de898471eb8113017dc11c245",
+                                                                                 "type":  "richText",
+                                                                                 "html":  "\u003cp\u003ePlaceholder reading text for Chapter 2, Lesson 1. Replace this section with the instructional content for patterns of reasoning.\u003c/p\u003e"
+                                                                             }
+                                                                         ]
+                                                          }
+                                                      ]
+                                   }
+                               ]
+                  },
+    "updatedAt":  "2026-07-10T02:41:07.6167970Z",
+    "publishedAt":  "2026-07-10T02:41:07.6167970Z"
+}

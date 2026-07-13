@@ -1,0 +1,17 @@
+export const chapters = [
+  { id: 1, title: 'Mind, Reason, and World' },
+  { id: 2, title: 'Patterns of Reasoning' },
+  { id: 3, title: 'Symbolization' },
+  { id: 4, title: 'Equivalence Rules' },
+  { id: 5, title: 'Truth Tables for Arguments' },
+  { id: 6, title: 'Implication Rules' },
+  { id: 7, title: 'Proofs' },
+  { id: 8, title: 'Conditional Proofs' },
+  { id: 9, title: 'Reductio Ad Absurdum' },
+  { id: 10, title: 'Hidden Premises and Enthymemes' },
+  { id: 11, title: 'Abstracting Arguments' },
+  { id: 12, title: 'Arguments by Analogy' },
+  { id: 13, title: 'Induction' },
+  { id: 14, title: "Bayes' Theorem" },
+  { id: 15, title: 'Informal Fallacies' },
+];

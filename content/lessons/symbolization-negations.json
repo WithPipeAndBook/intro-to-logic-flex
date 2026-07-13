@@ -1,0 +1,51 @@
+{
+    "id":  "symbolization-negations",
+    "chapterId":  3,
+    "lessonNumber":  3,
+    "title":  "Negations",
+    "summary":  "Placeholder lesson. Content and training will be added later.",
+    "draft":  {
+                  "tabs":  [
+                               {
+                                   "id":  "reading-placeholder",
+                                   "title":  "Reading Placeholder",
+                                   "containers":  [
+                                                      {
+                                                          "id":  "reading-placeholder-content",
+                                                          "title":  "Reading Placeholder",
+                                                          "blocks":  [
+                                                                         {
+                                                                             "id":  "edb391ef800a4944bd574414cc102d0d",
+                                                                             "type":  "richText",
+                                                                             "html":  "\u003cp\u003ePlaceholder reading text for Chapter 3, Lesson 3.\u003c/p\u003e"
+                                                                         }
+                                                                     ]
+                                                      }
+                                                  ]
+                               }
+                           ]
+              },
+    "published":  {
+                      "tabs":  [
+                                   {
+                                       "id":  "reading-placeholder",
+                                       "title":  "Reading Placeholder",
+                                       "containers":  [
+                                                          {
+                                                              "id":  "reading-placeholder-content",
+                                                              "title":  "Reading Placeholder",
+                                                              "blocks":  [
+                                                                             {
+                                                                                 "id":  "edb391ef800a4944bd574414cc102d0d",
+                                                                                 "type":  "richText",
+                                                                                 "html":  "\u003cp\u003ePlaceholder reading text for Chapter 3, Lesson 3.\u003c/p\u003e"
+                                                                             }
+                                                                         ]
+                                                          }
+                                                      ]
+                                   }
+                               ]
+                  },
+    "updatedAt":  "2026-07-10T02:41:07.6297965Z",
+    "publishedAt":  "2026-07-10T02:41:07.6297965Z"
+}

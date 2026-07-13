@@ -1,0 +1,116 @@
+{
+    "lessons":  [
+                    {
+                        "id":  "mrw-lesson-1",
+                        "chapterId":  1,
+                        "lessonNumber":  1,
+                        "title":  "Mind, Reason, and World",
+                        "summary":  "Reading and vocabulary on truth, statements, belief, reason, and intellectual courage.",
+                        "markdownSource":  "content/chapter-01/mrw-lesson-1.md"
+                    },
+                    {
+                        "id":  "mrw-lesson-2",
+                        "chapterId":  1,
+                        "lessonNumber":  2,
+                        "title":  "Words, Statements, and Arguments",
+                        "summary":  "Reading and vocabulary on ambiguity, statements, arguments, premises, conclusions, and argument quality.",
+                        "markdownSource":  "content/chapter-01/mrw-lesson-2.md"
+                    },
+                    {
+                        "id":  "patterns-lesson-1",
+                        "chapterId":  2,
+                        "lessonNumber":  1,
+                        "title":  "Patterns",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-02/patterns.md"
+                    },
+                    {
+                        "id":  "patterns-validity",
+                        "chapterId":  2,
+                        "lessonNumber":  2,
+                        "title":  "Validity",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-02/validity.md"
+                    },
+                    {
+                        "id":  "patterns-famous-forms",
+                        "chapterId":  2,
+                        "lessonNumber":  3,
+                        "title":  "Famous Forms",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-02/famous-forms.md"
+                    },
+                    {
+                        "id":  "symbolization-why-symbolize",
+                        "chapterId":  3,
+                        "lessonNumber":  1,
+                        "title":  "Why Symbolize?",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-03/why-symbolize.md"
+                    },
+                    {
+                        "id":  "symbolization-atomic-compound",
+                        "chapterId":  3,
+                        "lessonNumber":  2,
+                        "title":  "Atomic and Compound Statements",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-03/atomic-and-compound-statements.md"
+                    },
+                    {
+                        "id":  "symbolization-negations",
+                        "chapterId":  3,
+                        "lessonNumber":  3,
+                        "title":  "Negations",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-03/negations.md"
+                    },
+                    {
+                        "id":  "symbolization-conjunctions",
+                        "chapterId":  3,
+                        "lessonNumber":  4,
+                        "title":  "Conjunctions",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-03/conjunctions.md"
+                    },
+                    {
+                        "id":  "symbolization-disjunctions",
+                        "chapterId":  3,
+                        "lessonNumber":  5,
+                        "title":  "Disjunctions",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-03/disjunctions.md"
+                    },
+                    {
+                        "id":  "symbolization-conditionals",
+                        "chapterId":  3,
+                        "lessonNumber":  6,
+                        "title":  "Conditionals",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-03/conditionals.md"
+                    },
+                    {
+                        "id":  "symbolization-biconditionals",
+                        "chapterId":  3,
+                        "lessonNumber":  7,
+                        "title":  "Biconditionals",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-03/biconditionals.md"
+                    },
+                    {
+                        "id":  "symbolization-well-formed-formulas",
+                        "chapterId":  3,
+                        "lessonNumber":  8,
+                        "title":  "Well-Formed Formulas",
+                        "summary":  "Reading with training exercises for well-formed formulas and syntax recognition.",
+                        "markdownSource":  "content/chapter-03/well-formed-formulas.md"
+                    },
+                    {
+                        "id":  "symbolization-translating-arguments",
+                        "chapterId":  3,
+                        "lessonNumber":  9,
+                        "title":  "Translating Arguments to Symbols",
+                        "summary":  "Placeholder lesson. Content and training will be added later.",
+                        "markdownSource":  "content/chapter-03/translating-arguments-to-symbols.md"
+                    }
+                ]
+}

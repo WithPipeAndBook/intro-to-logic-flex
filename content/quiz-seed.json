@@ -1,0 +1,24 @@
+{
+  "mrw-lesson-1": [
+    { "type": "multipleChoice", "prompt": "Which term names reality as it is, whether or not anyone believes it?", "choices": ["Truth", "Self-report", "Certainty"], "answer": "Truth" },
+    { "type": "multipleChoice", "prompt": "Which term means a declarative sentence that can be true or false?", "choices": ["Statement", "Question", "Command"], "answer": "Statement" },
+    { "type": "multipleChoice", "prompt": "Which term names support that makes a claim more likely to be true?", "choices": ["Reason", "Contradiction", "Opinion"], "answer": "Reason" },
+    { "type": "fillBlank", "prompt": "Fill in the vocabulary term.", "context": "A statement and its negation, such as 'p and not-p,' form a ____. ", "answer": "contradiction" },
+    { "type": "fillBlank", "prompt": "Fill in the vocabulary term.", "context": "A mental act that affirms or denies a claim is a ____. ", "answer": "belief" },
+    { "type": "fillBlank", "prompt": "Fill in the vocabulary term.", "context": "'I feel worried about this argument' is a statement about one's own mental state, so it is a ____. ", "answer": "self-report" },
+    { "type": "inUse", "prompt": "Is the term used correctly?", "context": "'Clean your room!' is a statement because it is a sentence.", "choices": ["Correct use", "Incorrect use"], "answer": "Incorrect use" },
+    { "type": "inUse", "prompt": "Is the term used correctly?", "context": "An opinion, in this lesson's vocabulary, is a belief that can be true or false.", "choices": ["Correct use", "Incorrect use"], "answer": "Correct use" },
+    { "type": "inUse", "prompt": "Is the term used correctly?", "context": "The Law of Non-Contradiction says that 'p and not-p' cannot be true in the same sense at the same time.", "choices": ["Correct use", "Incorrect use"], "answer": "Correct use" }
+  ],
+  "mrw-lesson-2": [
+    { "type": "multipleChoice", "prompt": "Which term names the study of methods for evaluating how well statements support a conclusion?", "choices": ["Logic", "Illustration", "Sentence"], "answer": "Logic" },
+    { "type": "multipleChoice", "prompt": "Which term names a statement meant to support a conclusion?", "choices": ["Premise", "Explanation", "Ambiguous term"], "answer": "Premise" },
+    { "type": "multipleChoice", "prompt": "Which arguments have premises that make the conclusion probable without guaranteeing it?", "choices": ["Inductive arguments", "Deductive arguments", "Illustrations"], "answer": "Inductive arguments" },
+    { "type": "fillBlank", "prompt": "Fill in the vocabulary term.", "context": "To explicitly differentiate multiple senses of an ambiguous term is to draw a ____. ", "answer": "distinction" },
+    { "type": "fillBlank", "prompt": "Fill in the vocabulary term.", "context": "In an argument, the statement being supported by other statements is the ____. ", "answer": "conclusion" },
+    { "type": "fillBlank", "prompt": "Fill in the vocabulary term.", "context": "A clarifying example that helps one understand a statement is an ____. ", "answer": "illustration" },
+    { "type": "inUse", "prompt": "Is the term used correctly?", "context": "'It is raining; therefore, you should bring an umbrella' is an argument because one statement supports another.", "choices": ["Correct use", "Incorrect use"], "answer": "Correct use" },
+    { "type": "inUse", "prompt": "Is the term used correctly?", "context": "'Wars happen because humans are selfish' is treated here as an argument because it tries to prove wars happen.", "choices": ["Correct use", "Incorrect use"], "answer": "Incorrect use" },
+    { "type": "inUse", "prompt": "Is the term used correctly?", "context": "A deductive argument is one whose premises guarantee the conclusion if those premises are true.", "choices": ["Correct use", "Incorrect use"], "answer": "Correct use" }
+  ]
+}

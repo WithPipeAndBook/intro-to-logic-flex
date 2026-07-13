@@ -1,0 +1,51 @@
+{
+    "id":  "patterns-famous-forms",
+    "chapterId":  2,
+    "lessonNumber":  3,
+    "title":  "Famous Forms",
+    "summary":  "Placeholder lesson. Content and training will be added later.",
+    "draft":  {
+                  "tabs":  [
+                               {
+                                   "id":  "reading-placeholder",
+                                   "title":  "Reading Placeholder",
+                                   "containers":  [
+                                                      {
+                                                          "id":  "reading-placeholder-content",
+                                                          "title":  "Reading Placeholder",
+                                                          "blocks":  [
+                                                                         {
+                                                                             "id":  "de78201b08ac49dfa332a707d756911b",
+                                                                             "type":  "richText",
+                                                                             "html":  "\u003cp\u003ePlaceholder reading text for Chapter 2, Lesson 3. Replace this section with the instructional content for famous forms.\u003c/p\u003e"
+                                                                         }
+                                                                     ]
+                                                      }
+                                                  ]
+                               }
+                           ]
+              },
+    "published":  {
+                      "tabs":  [
+                                   {
+                                       "id":  "reading-placeholder",
+                                       "title":  "Reading Placeholder",
+                                       "containers":  [
+                                                          {
+                                                              "id":  "reading-placeholder-content",
+                                                              "title":  "Reading Placeholder",
+                                                              "blocks":  [
+                                                                             {
+                                                                                 "id":  "de78201b08ac49dfa332a707d756911b",
+                                                                                 "type":  "richText",
+                                                                                 "html":  "\u003cp\u003ePlaceholder reading text for Chapter 2, Lesson 3. Replace this section with the instructional content for famous forms.\u003c/p\u003e"
+                                                                             }
+                                                                         ]
+                                                          }
+                                                      ]
+                                   }
+                               ]
+                  },
+    "updatedAt":  "2026-07-10T02:41:07.6217967Z",
+    "publishedAt":  "2026-07-10T02:41:07.6217967Z"
+}

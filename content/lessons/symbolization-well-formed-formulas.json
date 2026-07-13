@@ -1,0 +1,87 @@
+{
+    "id":  "symbolization-well-formed-formulas",
+    "chapterId":  3,
+    "lessonNumber":  8,
+    "title":  "Well-Formed Formulas",
+    "summary":  "Reading with training exercises for well-formed formulas and syntax recognition.",
+    "draft":  {
+                  "tabs":  [
+                               {
+                                   "id":  "reading-placeholder",
+                                   "title":  "Reading Placeholder",
+                                   "containers":  [
+                                                      {
+                                                          "id":  "reading-placeholder-content",
+                                                          "title":  "Reading Placeholder",
+                                                          "blocks":  [
+                                                                         {
+                                                                             "id":  "6e90c2eb9f2a47c895a99b653a42dc0a",
+                                                                             "type":  "richText",
+                                                                             "html":  "\u003cp\u003ePlaceholder reading text for Chapter 3, Lesson 8.\u003c/p\u003e"
+                                                                         }
+                                                                     ]
+                                                      }
+                                                  ]
+                               },
+                               {
+                                   "id":  "training",
+                                   "title":  "Training",
+                                   "containers":  [
+                                                      {
+                                                          "id":  "well-formed-formulas",
+                                                          "title":  "Well-Formed Formula Practice",
+                                                          "blocks":  [
+                                                                         {
+                                                                             "id":  "dd4cba0a77dd4617a436ad172df2e15d",
+                                                                             "type":  "legacySymbolizing",
+                                                                             "title":  "Well-Formed Formula Practice",
+                                                                             "instructions":  "The original Well-Formed Formula activity remains reserved here while the new interactive block system grows."
+                                                                         }
+                                                                     ]
+                                                      }
+                                                  ]
+                               }
+                           ]
+              },
+    "published":  {
+                      "tabs":  [
+                                   {
+                                       "id":  "reading-placeholder",
+                                       "title":  "Reading Placeholder",
+                                       "containers":  [
+                                                          {
+                                                              "id":  "reading-placeholder-content",
+                                                              "title":  "Reading Placeholder",
+                                                              "blocks":  [
+                                                                             {
+                                                                                 "id":  "6e90c2eb9f2a47c895a99b653a42dc0a",
+                                                                                 "type":  "richText",
+                                                                                 "html":  "\u003cp\u003ePlaceholder reading text for Chapter 3, Lesson 8.\u003c/p\u003e"
+                                                                             }
+                                                                         ]
+                                                          }
+                                                      ]
+                                   },
+                                   {
+                                       "id":  "training",
+                                       "title":  "Training",
+                                       "containers":  [
+                                                          {
+                                                              "id":  "well-formed-formulas",
+                                                              "title":  "Well-Formed Formula Practice",
+                                                              "blocks":  [
+                                                                             {
+                                                                                 "id":  "dd4cba0a77dd4617a436ad172df2e15d",
+                                                                                 "type":  "legacySymbolizing",
+                                                                                 "title":  "Well-Formed Formula Practice",
+                                                                                 "instructions":  "The original Well-Formed Formula activity remains reserved here while the new interactive block system grows."
+                                                                             }
+                                                                         ]
+                                                          }
+                                                      ]
+                                   }
+                               ]
+                  },
+    "updatedAt":  "2026-07-10T02:41:07.6417962Z",
+    "publishedAt":  "2026-07-10T02:41:07.6417962Z"
+}
